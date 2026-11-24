@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AV2 Prática – Streaming de Animes (MongoDB)
 
 **Disciplina:** Banco de Dados – 2ª Série EM TI – 4º Bimestre/2026
@@ -29,3 +30,6 @@ Banco `ProjetoAV2_AnimeStreamingDB` de uma plataforma de streaming de animes, co
 
 ## Como executar
 Abra `AV2_AnimeStreaming.mongodb.js` no VS Code com a extensão MongoDB, conecte-se ao servidor e clique em *Play*. O script pode ser rodado várias vezes.
+=======
+# projeto-straming-joao-pedrro-appolinario
+>>>>>>> 6d098843b8344fe1bc3571b33daad5afb58d5b95
